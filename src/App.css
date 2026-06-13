@@ -9,9 +9,8 @@ body {
 }
 
 .page {
-  width: 390px;
+  width: 100%;
   min-height: 844px;
-  margin: 30px auto;
   background-color: #050505;
   color: white;
 }

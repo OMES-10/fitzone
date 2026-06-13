@@ -39,10 +39,13 @@ function Home({ setPage }) {
         </button>
 
         <div className="info-card">
-          <p>Ouvert 7j/7 · 8h à 22h</p>
-          <p>Ottawa, ON</p>
-          <p>Conçu par Marc</p>
-        </div>
+  <p>FitZone — Centre sportif / Gym</p>
+  <p>Ouvert 7j/7 · 8h à 22h</p>
+  <p>Ottawa, ON</p>
+  <p>Téléphone : 613-000-0000</p>
+  <p>Email : contact@fitzone.ca</p>
+  <p>Conçu par Marc Olloe</p>
+</div>
       </main>
     </>
   );
